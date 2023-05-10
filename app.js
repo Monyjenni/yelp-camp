@@ -102,6 +102,7 @@ const connectSrcUrls = [
   "https://a.tiles.mapbox.com/",
   "https://b.tiles.mapbox.com/",
   "https://events.mapbox.com/",
+  "https://res.cloudinary.com/dxaobslel/",
 ];
 const fontSrcUrls = [];
 app.use(
