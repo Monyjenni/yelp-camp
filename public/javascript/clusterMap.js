@@ -2,7 +2,9 @@ mapboxgl.accessToken = mapToken;
 const map = new mapboxgl.Map({
   container: "cluster-map",
   style: "mapbox://styles/mapbox/light-v10",
-  center: [-103.59179687498357, 40.66995747013945],
+  // center: [-103.59179687498357, 40.66995747013945],
+  //i changed the center of map to Cambodia
+  center: [105.89040684792062, 13.475325145070267],
   zoom: 3,
 });
 
